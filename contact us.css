@@ -1,0 +1,271 @@
+.outer-div{
+    width:100%;
+    height: 120px;
+    background-color: rgb(30, 17, 78);
+    float: left;
+    
+}
+/* .outer-div:hover{
+    background-color: rgb(9, 102, 207);
+} */
+
+.contentt{
+    height:90px ;
+    width:220px ;
+    margin: 20px;
+    margin-left: 100px;
+}
+
+li{
+    float: left;
+    list-style-type: none;
+}
+li{
+   
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    margin-top: 35px;
+    display: block;
+}
+li:hover{
+    color: green;
+}
+li img{
+    height: 25px;
+    width: 30px;
+    margin-bottom: 60px;
+}
+
+.content{
+    color: white;
+    text-align: center;
+    font-family: arial black;
+}
+.content1{
+    height: 180px;
+    background-color: rgb(20, 59, 187);
+}
+.content2{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+   
+}
+.div{
+    height: 5px;
+    width:150px;
+    float: left;
+    background-color: rgb(5, 160, 57);
+    margin-top: 45px;
+    margin-left: 50px;
+}
+/* .outer-div{
+    height: 500px;
+    width: 80%;
+    margin:10% ;
+    float: left;
+} */
+.phone{
+    width: 100px;
+    height: 100px;
+   
+}
+.class1{
+height: 350px;
+
+border: 2px solid slategrey;
+border-radius: 5px;
+/* margin-top: 50px; */
+
+
+}
+.class2{
+height: 350px;
+
+border: 2px solid slategrey;
+border-radius: 5px;
+/* margin-top: 50px; */
+
+
+}
+.class{
+    height: 430px;
+    width: 100%;
+    margin-top: 80px;
+}
+.TEXT{
+    font-size: 22px;
+    text-align: center;
+    font-family: arial black;
+}
+.green{
+    height: 8px;
+    width: 50px;
+    background-color: rgb(10, 179, 108);
+    float: left;
+    margin-left: 20px;
+}
+.light{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(82, 228, 118);
+}
+.text{
+    color: white;
+    font-family: arial black;
+    margin-top: 30px;
+   margin-left: 50px;
+   font-size: 40px;
+}
+.textt{
+    color: white;
+    font-family: arial;
+    margin-top: 30px;
+   margin-left: 50px;
+   font-size: 26px;
+
+}
+.texttt{
+
+color: white;
+font-family: arial black;
+margin-top: 60px;
+text-align: center;
+font-size: 23px;
+margin-left: -200px;
+}
+.social{
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.outer{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+}
+.texb{
+    color: rgb(23, 41, 141);
+    text-align: center;
+    margin-top: 150px;
+    font-size: 28px;
+}
+.pics{
+    height:100%;
+    width: 50%;
+    float: left;
+    border: 1px solid rgb(5, 136, 60);
+    
+}
+.picss{
+    height: 260px;
+    width: 290px;
+}
+.greenn{
+    height: 5px;
+    width: 80px;
+    background-color: rgb(44, 184, 125);
+    float: left;
+    margin-left: 260px;
+    margin-top: 110px;
+}
+.greennn{
+    height: 5px;
+    width: 80px;
+    background-color: rgb(44, 184, 125);
+    float: left;
+    margin-left: 260px;
+margin-top: 30px;
+}
+.bluish{
+    height: 350px;
+    width: 100%;
+    float: left;
+    background-color: rgb(7, 7, 34);
+}
+.bluish1{
+    width: 35%;
+    height: 100%;
+    float: left;
+   
+    
+
+}
+.bluish2{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+    
+
+}
+.bluish3{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+
+}
+.bluish4{
+    width: 35%;
+    height: 100%;
+    float: left;
+
+    
+
+}
+.web1{
+    height: 130px;
+    width: 320px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    
+}
+.com{
+
+color: white;
+font-size: 20px;
+font-family: arial black;
+margin-top: 100px;
+text-align: left;
+margin-left: 50px;
+
+}
+.comm{
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 70px;
+}
+li.sss{
+    float: left;
+
+}
+ul.ss{
+    list-style-type:none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown,.dropdown-content:hover{
+    display: block;
+    
+  }
+  .custom-link{
+    color: white;
+    text-decoration: none;
+  }
+  
+  

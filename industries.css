@@ -1,0 +1,170 @@
+.outer-div{
+    width:100%;
+    height: 120px;
+    background-color: rgb(30, 17, 78);
+    float: left;
+    
+}
+/* .outer-div:hover{
+    background-color: rgb(9, 102, 207);
+} */
+
+.content{
+    height:90px ;
+    width:220px ;
+    margin: 20px;
+    margin-left: 100px;
+}
+
+li{
+    float: left;
+    list-style-type: none;
+}
+li{
+   
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    margin-top: 35px;
+    display: block;
+}
+li:hover{
+    color: green;
+}
+li img{
+    height: 25px;
+    width: 30px;
+    margin-bottom: 60px;
+}
+.bgi{
+    height: 550px;
+    width: 100%;
+    float: left;
+   background-color: rgb(0, 51, 51);
+}
+.text{
+    color: white;
+    font-family: arial black;
+    margin-left: 70px;
+    margin-top: 100px;
+    line-height: 70px;
+    letter-spacing: 5px;
+    font-size: 50px;
+    
+}
+.text1{
+    color: white;
+    margin-left: 70px;
+    font-size: 22px;
+    margin-top: 50px;
+    
+}
+.BTN{
+    color: white;
+    background-color: rgb(10, 243, 150);
+    margin-left: 70px;
+    height: 60px;
+    width: 190px;
+    border-radius: 10px;
+    font-family: arial black;
+    margin-top: 40px;
+    
+}
+.picc{
+    height: 550px;
+    width: 650px;
+}
+.pic{
+    height: 90px;
+    width: 90px;
+}
+.bluish{
+    height: 350px;
+    width: 100%;
+    float: left;
+    background-color: rgb(7, 7, 34);
+    margin-top: 100px;
+}
+.bluish1{
+    width: 35%;
+    height: 100%;
+    float: left;
+   
+    
+
+}
+.bluish2{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+    
+
+}
+.bluish3{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+
+}
+.bluish4{
+    width: 35%;
+    height: 100%;
+    float: left;
+
+    
+
+}
+.web1{
+    height: 130px;
+    width: 320px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    
+}
+.com{
+
+color: white;
+font-size: 20px;
+font-family: arial black;
+margin-top: 100px;
+text-align: left;
+margin-left: 50px;
+
+}
+.comm{
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 70px;
+}
+li.sss{
+    float: left;
+
+}
+ul.ss{
+    list-style-type:none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown,.dropdown-content:hover{
+    display: block;
+    
+  }
+  .custom-link{
+    color: white;
+    text-decoration: none;
+  }
+  
